@@ -1,0 +1,21 @@
+Computing Trapizodal Error
+
+Calculating n =  16  from 0.0 to 1.0
+Area: 0.45954804321221476
+Actutal: 0.45969769413186023
+Error: -0.00014965091964547206
+
+Calculating n =  32  from 0.0 to 1.0
+Area: 0.4596602832288359
+Actutal: 0.45969769413186023
+Error: -3.741090302433747e-05
+
+Calculating n =  64  from 0.0 to 1.0
+Area: 0.4596883415202747
+Actutal: 0.45969769413186023
+Error: -9.352611585522475e-06
+
+Calculating n =  128  from 0.0 to 1.0
+Area: 0.45969535598609934
+Actutal: 0.45969769413186023
+Error: -2.3381457608939726e-06

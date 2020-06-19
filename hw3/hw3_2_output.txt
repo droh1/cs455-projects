@@ -1,0 +1,16 @@
+Beginning Calculation
+
+Calculating area by every  0.1  spaces:
+Points counted: 1200
+Square Area: 0.010000000000000002
+Area in circle 2/3 but not 1: 8.049999999999873
+
+Calculating area by every  0.010000000000000002  spaces:
+Points counted: 120400
+Square Area: 0.00010000000000000005
+Area in circle 2/3 but not 1: 8.123199999994407
+
+Calculating area by every  0.0010000000000000002  spaces:
+Points counted: 12007001
+Square Area: 1.0000000000000004e-06
+Area in circle 2/3 but not 1: 8.126797000669423

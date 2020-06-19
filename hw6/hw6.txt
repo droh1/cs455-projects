@@ -1,0 +1,10 @@
+//HW 6 Write Up
+
+In the timing tests for hw6, the raw time values are the shortest at the smallest N and get larger as the N becomes larger.
+However, when looking at the normalized time values, the time values showed the same trend but showed a much smaller increase
+per N increase compaired to the raw time value.
+
+- While the time increased, the normalized time value shows that the computations are occuring at roughtly the same rate. While
+  the time it takes for the operation at larger N's take longer, the main slowdown seems to be related to hardware. The cache
+  seems to suspect as its clear that at larger N's the cache is not big enough to hold all of the data, thus leading to some
+  slowdown.

@@ -1,0 +1,18 @@
+multiply N by N matrices, N=100 
+-initialized 
+--> N=100, c=0, raw time=1.02812 seconds
+--> order N^3 normalized time=1028.12 
+
+multiply N by N matrices, N=200 
+-initialized 
+--> N=200, c=0, raw time=8.2157 seconds
+--> order N^3 normalized time=1026.96 
+
+multiply N by N matrices, N=400 
+-initialized 
+--> N=400, c=0, raw time=66.2164 seconds
+--> order N^3 normalized time=1034.63 
+
+multiply N by N matrices, N=800 
+-initialized 
+Time over 10mins for this calculation, exiting

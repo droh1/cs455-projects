@@ -1,0 +1,2 @@
+Calculating 5 choose 52
+Value:  2598960.0
